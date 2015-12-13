@@ -1,4 +1,5 @@
 # Simple-Chat-Application-using-FIFO-pipelining
+--------------------------------------------------
 
 This is a simple Chat application code using FIFO pipelining written in C.
 
